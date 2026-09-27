@@ -154,16 +154,15 @@ The exercises collectively cover:
 
 ```text
 earth-science-modeling/
-├── notebooks/
-│   ├── 01_laplace_equation.ipynb
-│   ├── 02_diffusion_random_walk.ipynb
-│   ├── 03_heat_diffusion.ipynb
-│   ├── 04_gravity_modeling_parallelization.ipynb
-│   ├── 05_seismic_wave_propagation.ipynb
-│   ├── 06_football_league_monte_carlo.ipynb
-│   ├── 07_wave_propagation_geometry.ipynb
-│   ├── 08_gpu_accelerated_wave_simulation.ipynb
-│   └── 09_mcmc_climate_trend_analysis.ipynb
+├── 01_laplace_equation.ipynb
+├── 02_diffusion_random_walk.ipynb
+├── 03_heat_diffusion.ipynb
+├── 04_gravity_modeling_parallelization.ipynb
+├── 05_seismic_wave_propagation.ipynb
+├── 06_football_league_monte_carlo.ipynb
+├── 07_wave_propagation_geometry.ipynb
+├── 08_gpu_accelerated_wave_simulation.ipynb
+├── 09_mcmc_climate_trend_analysis.ipynb
 └── README.md
 ```
 
